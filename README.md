@@ -159,9 +159,8 @@ Stork is designed for **educational purposes and authorized security testing onl
 ## 👨‍💻 **Author**
 
 **Muhammad Hassnain**  
-- 🔗 [GitHub](https://github.com/yourusername)  
+- 🔗 [GitHub](https://github.com/darkfa1con)  
 - 💼 [LinkedIn](https://linkedin.com/in/muhammad-hassnain)  
-- 🐦 [Twitter](https://twitter.com/yourhandle) *(optional)*  
 
 If you find Stork useful, consider giving it a ⭐ on GitHub!
 
